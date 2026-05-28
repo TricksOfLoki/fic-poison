@@ -1,0 +1,4 @@
+name: fic_poison_test
+dependencies:
+  - pytest
+
