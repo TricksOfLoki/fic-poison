@@ -1,0 +1,14 @@
+beautifulsoup4==4.15.0
+bs4==0.0.2
+epubfile==0.0.9
+ExifRead==3.5.1
+html5lib==1.1
+portalocker==4.4.1
+pyperclip==1.11.0
+python-dateutil==2.9.0.post0
+six==1.17.0
+soupsieve==3.0.3
+tinycss2==1.5.1
+typing_extensions==4.16.0
+voussoirkit==0.0.77
+webencodings==0.6.1
